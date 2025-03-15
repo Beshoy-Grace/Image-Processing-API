@@ -1,0 +1,20 @@
+{
+  "PNG-IHDR": {
+    "Image Width": "348",
+    "Image Height": "348",
+    "Bits Per Sample": "4",
+    "Color Type": "Indexed Color",
+    "Compression Type": "Deflate",
+    "Filter Method": "Adaptive",
+    "Interlace Method": "No Interlace"
+  },
+  "PNG-PLTE": {
+    "Palette Size": "13"
+  },
+  "File Type": {
+    "Detected File Type Name": "PNG",
+    "Detected File Type Long Name": "Portable Network Graphics",
+    "Detected MIME Type": "image/png",
+    "Expected File Name Extension": "png"
+  }
+}

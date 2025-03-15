@@ -1,0 +1,370 @@
+Time: 2025-03-15 16:20:18.426
+Level: Information
+Now listening on: "https://localhost:7120"
+
+
+Time: 2025-03-15 16:20:18.428
+Level: Information
+Now listening on: "http://localhost:5186"
+
+
+Time: 2025-03-15 16:20:18.485
+Level: Information
+Application started. Press Ctrl+C to shut down.
+
+
+Time: 2025-03-15 16:20:18.485
+Level: Information
+Hosting environment: "Development"
+
+
+Time: 2025-03-15 16:20:18.485
+Level: Information
+Content root path: "D:\Abjad\Image\Image.API"
+
+
+Time: 2025-03-15 16:20:19.503
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/index.html""" - null null
+
+
+Time: 2025-03-15 16:20:19.741
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 244.6724ms
+
+
+Time: 2025-03-15 16:20:19.829
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/_framework/aspnetcore-browser-refresh.js""" - null null
+
+
+Time: 2025-03-15 16:20:19.837
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/_framework/aspnetcore-browser-refresh.js""" - 200 13754 "application/javascript; charset=utf-8" 7.6215ms
+
+
+Time: 2025-03-15 16:20:19.900
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/_vs/browserLink""" - null null
+
+
+Time: 2025-03-15 16:20:19.950
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 50.8679ms
+
+
+Time: 2025-03-15 16:20:21.021
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/v1/swagger.json""" - null null
+
+
+Time: 2025-03-15 16:20:21.113
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 92.4453ms
+
+
+Time: 2025-03-15 16:20:32.755
+Level: Information
+Request starting "HTTP/2" "POST" "https"://"localhost:7120""""/api/images/upload""" - "multipart/form-data; boundary=----WebKitFormBoundaryZqKMNYAcODxDk3lk" 100123
+
+
+Time: 2025-03-15 16:20:32.769
+Level: Information
+Executing endpoint '"Image.API.Controllers.ImageController.UploadImages (Image.API)"'
+
+
+Time: 2025-03-15 16:20:32.816
+Level: Information
+Route matched with "{action = \"UploadImages\", controller = \"Image\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadImages(System.Collections.Generic.List`1[Microsoft.AspNetCore.Http.IFormFile])" on controller "Image.API.Controllers.ImageController" ("Image.API").
+
+
+Time: 2025-03-15 16:20:49.838
+Level: Information
+Executing "OkObjectResult", writing value of type '"Image.API.DTOs.BaseCommandResponse`1[[System.Collections.Generic.List`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+
+
+Time: 2025-03-15 16:20:49.868
+Level: Information
+Executed action "Image.API.Controllers.ImageController.UploadImages (Image.API)" in 17044.802ms
+
+
+Time: 2025-03-15 16:20:49.869
+Level: Information
+Executed endpoint '"Image.API.Controllers.ImageController.UploadImages (Image.API)"'
+
+
+Time: 2025-03-15 16:20:49.871
+Level: Information
+Request finished "HTTP/2" "POST" "https"://"localhost:7120""""/api/images/upload""" - 200 null "application/json; charset=utf-8" 17116.3583ms
+
+
+Time: 2025-03-15 16:21:01.910
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/api/images/metadata/c3dde428-9268-43fe-a45a-1a6a9c3a56e1""" - null null
+
+
+Time: 2025-03-15 16:21:01.912
+Level: Information
+Executing endpoint '"Image.API.Controllers.ImageController.GetMetadata (Image.API)"'
+
+
+Time: 2025-03-15 16:21:01.919
+Level: Information
+Route matched with "{action = \"GetMetadata\", controller = \"Image\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetMetadata(System.String)" on controller "Image.API.Controllers.ImageController" ("Image.API").
+
+
+Time: 2025-03-15 16:21:03.829
+Level: Information
+Executing "OkObjectResult", writing value of type '"Image.API.DTOs.BaseCommandResponse`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+
+
+Time: 2025-03-15 16:21:03.833
+Level: Information
+Executed action "Image.API.Controllers.ImageController.GetMetadata (Image.API)" in 1913.7172ms
+
+
+Time: 2025-03-15 16:21:03.833
+Level: Information
+Executed endpoint '"Image.API.Controllers.ImageController.GetMetadata (Image.API)"'
+
+
+Time: 2025-03-15 16:21:03.833
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/api/images/metadata/c3dde428-9268-43fe-a45a-1a6a9c3a56e1""" - 200 null "application/json; charset=utf-8" 1924.3328ms
+
+
+Time: 2025-03-15 16:35:34.186
+Level: Information
+Now listening on: "https://localhost:7120"
+
+
+Time: 2025-03-15 16:35:34.189
+Level: Information
+Now listening on: "http://localhost:5186"
+
+
+Time: 2025-03-15 16:35:34.296
+Level: Information
+Application started. Press Ctrl+C to shut down.
+
+
+Time: 2025-03-15 16:35:34.297
+Level: Information
+Hosting environment: "Development"
+
+
+Time: 2025-03-15 16:35:34.297
+Level: Information
+Content root path: "D:\Abjad\Image\Image.API"
+
+
+Time: 2025-03-15 16:35:35.562
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/index.html""" - null null
+
+
+Time: 2025-03-15 16:35:35.778
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 220.8808ms
+
+
+Time: 2025-03-15 16:35:35.792
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/_framework/aspnetcore-browser-refresh.js""" - null null
+
+
+Time: 2025-03-15 16:35:35.798
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/_framework/aspnetcore-browser-refresh.js""" - 200 13754 "application/javascript; charset=utf-8" 6.7831ms
+
+
+Time: 2025-03-15 16:35:36.035
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/_vs/browserLink""" - null null
+
+
+Time: 2025-03-15 16:35:36.128
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 93.3399ms
+
+
+Time: 2025-03-15 16:35:38.214
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/v1/swagger.json""" - null null
+
+
+Time: 2025-03-15 16:35:38.408
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 195.6921ms
+
+
+Time: 2025-03-15 16:36:20.153
+Level: Information
+Request starting "HTTP/2" "POST" "https"://"localhost:7120""""/api/images/upload""" - "multipart/form-data; boundary=----WebKitFormBoundaryiqHIxFr7CbCt05RK" 195403
+
+
+Time: 2025-03-15 16:36:20.192
+Level: Information
+Executing endpoint '"Image.API.Controllers.ImageController.UploadImages (Image.API)"'
+
+
+Time: 2025-03-15 16:36:20.234
+Level: Information
+Route matched with "{action = \"UploadImages\", controller = \"Image\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadImages(System.Collections.Generic.List`1[Microsoft.AspNetCore.Http.IFormFile])" on controller "Image.API.Controllers.ImageController" ("Image.API").
+
+
+Time: 2025-03-15 16:36:55.396
+Level: Information
+Executing "OkObjectResult", writing value of type '"Image.API.DTOs.BaseCommandResponse`1[[System.Collections.Generic.List`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+
+
+Time: 2025-03-15 16:36:55.428
+Level: Information
+Executed action "Image.API.Controllers.ImageController.UploadImages (Image.API)" in 35187.009ms
+
+
+Time: 2025-03-15 16:36:55.428
+Level: Information
+Executed endpoint '"Image.API.Controllers.ImageController.UploadImages (Image.API)"'
+
+
+Time: 2025-03-15 16:36:55.431
+Level: Information
+Request finished "HTTP/2" "POST" "https"://"localhost:7120""""/api/images/upload""" - 200 null "application/json; charset=utf-8" 35277.8804ms
+
+
+Time: 2025-03-15 16:37:10.654
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/api/images/metadata/c146dae8-fcee-4be5-b1f4-44b7116c0721""" - null null
+
+
+Time: 2025-03-15 16:37:10.655
+Level: Information
+Executing endpoint '"Image.API.Controllers.ImageController.GetMetadata (Image.API)"'
+
+
+Time: 2025-03-15 16:37:10.661
+Level: Information
+Route matched with "{action = \"GetMetadata\", controller = \"Image\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetMetadata(System.String)" on controller "Image.API.Controllers.ImageController" ("Image.API").
+
+
+Time: 2025-03-15 16:37:15.545
+Level: Information
+Executing "OkObjectResult", writing value of type '"Image.API.DTOs.BaseCommandResponse`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+
+
+Time: 2025-03-15 16:37:15.547
+Level: Information
+Executed action "Image.API.Controllers.ImageController.GetMetadata (Image.API)" in 4885.9588ms
+
+
+Time: 2025-03-15 16:37:15.547
+Level: Information
+Executed endpoint '"Image.API.Controllers.ImageController.GetMetadata (Image.API)"'
+
+
+Time: 2025-03-15 16:37:15.547
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/api/images/metadata/c146dae8-fcee-4be5-b1f4-44b7116c0721""" - 200 null "application/json; charset=utf-8" 4896.1709ms
+
+
+Time: 2025-03-15 16:40:39.919
+Level: Information
+Now listening on: "https://localhost:7120"
+
+
+Time: 2025-03-15 16:40:39.920
+Level: Information
+Now listening on: "http://localhost:5186"
+
+
+Time: 2025-03-15 16:40:39.971
+Level: Information
+Application started. Press Ctrl+C to shut down.
+
+
+Time: 2025-03-15 16:40:39.972
+Level: Information
+Hosting environment: "Development"
+
+
+Time: 2025-03-15 16:40:39.972
+Level: Information
+Content root path: "D:\Abjad\Image\Image.API"
+
+
+Time: 2025-03-15 16:40:41.267
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/index.html""" - null null
+
+
+Time: 2025-03-15 16:40:41.466
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 203.3179ms
+
+
+Time: 2025-03-15 16:40:41.540
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/_framework/aspnetcore-browser-refresh.js""" - null null
+
+
+Time: 2025-03-15 16:40:41.547
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/_framework/aspnetcore-browser-refresh.js""" - 200 13754 "application/javascript; charset=utf-8" 6.9766ms
+
+
+Time: 2025-03-15 16:40:41.597
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/_vs/browserLink""" - null null
+
+
+Time: 2025-03-15 16:40:41.644
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 46.3018ms
+
+
+Time: 2025-03-15 16:40:42.331
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/v1/swagger.json""" - null null
+
+
+Time: 2025-03-15 16:40:42.492
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 160.5092ms
+
+
+Time: 2025-03-15 16:40:53.958
+Level: Information
+Request starting "HTTP/2" "GET" "https"://"localhost:7120""""/api/images/metadata/c146dae8-fcee-4be5-b1f4-44b7116c0721""" - null null
+
+
+Time: 2025-03-15 16:40:53.976
+Level: Information
+Executing endpoint '"Image.API.Controllers.ImageController.GetMetadata (Image.API)"'
+
+
+Time: 2025-03-15 16:40:54.011
+Level: Information
+Route matched with "{action = \"GetMetadata\", controller = \"Image\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetMetadata(System.String)" on controller "Image.API.Controllers.ImageController" ("Image.API").
+
+
+Time: 2025-03-15 16:40:54.063
+Level: Information
+Executing "OkObjectResult", writing value of type '"Image.API.DTOs.BaseCommandResponse`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+
+
+Time: 2025-03-15 16:40:54.089
+Level: Information
+Executed action "Image.API.Controllers.ImageController.GetMetadata (Image.API)" in 70.0471ms
+
+
+Time: 2025-03-15 16:40:54.089
+Level: Information
+Executed endpoint '"Image.API.Controllers.ImageController.GetMetadata (Image.API)"'
+
+
+Time: 2025-03-15 16:40:54.089
+Level: Information
+Request finished "HTTP/2" "GET" "https"://"localhost:7120""""/api/images/metadata/c146dae8-fcee-4be5-b1f4-44b7116c0721""" - 200 null "application/json; charset=utf-8" 130.9687ms
+
+

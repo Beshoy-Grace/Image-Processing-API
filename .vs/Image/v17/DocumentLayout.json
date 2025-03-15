@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abjad\\Image\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\uploads\\metadata\\e43329be-006d-42b3-b523-70c4db052005.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\uploads\\metadata\\e43329be-006d-42b3-b523-70c4db052005.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\uploads\\metadata\\382c24fb-6c24-46ff-8237-83b7472d66be.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\uploads\\metadata\\382c24fb-6c24-46ff-8237-83b7472d66be.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\image.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\image.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\logging\\seriloglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\logging\\seriloglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\logging\\appsettings.logconfigs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\logging\\appsettings.logconfigs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\logging\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\logging\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\logging\\filters\\exceptionlogfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\logging\\filters\\exceptionlogfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\logging\\http\\extensions\\httprequestextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\logging\\http\\extensions\\httprequestextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\logging\\http\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\logging\\http\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\logging\\exceptionlogoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\logging\\exceptionlogoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\dtos\\enums\\imagesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\dtos\\enums\\imagesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\dtos\\statuscodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\dtos\\statuscodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|d:\\abjad\\image\\image.api\\dtos\\basecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C682F459-2F4B-453D-AE1B-8DB3AB182A6F}|Image.API\\Image.API.csproj|solutionrelative:image.api\\dtos\\basecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SerilogLogger.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Logging\\SerilogLogger.cs",
+              "RelativeDocumentMoniker": "Image.API\\Logging\\SerilogLogger.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Logging\\SerilogLogger.cs",
+              "RelativeToolTip": "Image.API\\Logging\\SerilogLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:08:02.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionLogFilter.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Logging\\Filters\\ExceptionLogFilter.cs",
+              "RelativeDocumentMoniker": "Image.API\\Logging\\Filters\\ExceptionLogFilter.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Logging\\Filters\\ExceptionLogFilter.cs",
+              "RelativeToolTip": "Image.API\\Logging\\Filters\\ExceptionLogFilter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:07:01.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Logging\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Image.API\\Logging\\Extensions\\IServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Logging\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Image.API\\Logging\\Extensions\\IServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:06:39.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Image.API",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Image.API.csproj",
+              "RelativeDocumentMoniker": "Image.API\\Image.API.csproj",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Image.API.csproj",
+              "RelativeToolTip": "Image.API\\Image.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T14:06:33.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "Image.API\\Controllers\\ImageController.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "Image.API\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:05:18.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "Image.API\\Services\\ImageService.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Services\\ImageService.cs",
+              "RelativeToolTip": "Image.API\\Services\\ImageService.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAswGMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:02:39.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Interfaces\\IImageService.cs",
+              "RelativeDocumentMoniker": "Image.API\\Interfaces\\IImageService.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Interfaces\\IImageService.cs",
+              "RelativeToolTip": "Image.API\\Interfaces\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:01:56.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "382c24fb-6c24-46ff-8237-83b7472d66be.json",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\uploads\\metadata\\382c24fb-6c24-46ff-8237-83b7472d66be.json",
+              "RelativeDocumentMoniker": "Image.API\\uploads\\metadata\\382c24fb-6c24-46ff-8237-83b7472d66be.json",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\uploads\\metadata\\382c24fb-6c24-46ff-8237-83b7472d66be.json",
+              "RelativeToolTip": "Image.API\\uploads\\metadata\\382c24fb-6c24-46ff-8237-83b7472d66be.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T14:37:23.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "e43329be-006d-42b3-b523-70c4db052005.json",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\uploads\\metadata\\e43329be-006d-42b3-b523-70c4db052005.json",
+              "RelativeDocumentMoniker": "Image.API\\uploads\\metadata\\e43329be-006d-42b3-b523-70c4db052005.json",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\uploads\\metadata\\e43329be-006d-42b3-b523-70c4db052005.json",
+              "RelativeToolTip": "Image.API\\uploads\\metadata\\e43329be-006d-42b3-b523-70c4db052005.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T14:27:57.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HttpRequestExtensions.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Logging\\Http\\Extensions\\HttpRequestExtensions.cs",
+              "RelativeDocumentMoniker": "Image.API\\Logging\\Http\\Extensions\\HttpRequestExtensions.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Logging\\Http\\Extensions\\HttpRequestExtensions.cs",
+              "RelativeToolTip": "Image.API\\Logging\\Http\\Extensions\\HttpRequestExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:11:11.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Logging\\Http\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "Image.API\\Logging\\Http\\Extensions\\StringExtensions.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Logging\\Http\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "Image.API\\Logging\\Http\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:11:57.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.LogConfigs.json",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Logging\\appsettings.LogConfigs.json",
+              "RelativeDocumentMoniker": "Image.API\\Logging\\appsettings.LogConfigs.json",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Logging\\appsettings.LogConfigs.json",
+              "RelativeToolTip": "Image.API\\Logging\\appsettings.LogConfigs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T14:19:35.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Program.cs",
+              "RelativeDocumentMoniker": "Image.API\\Program.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Program.cs",
+              "RelativeToolTip": "Image.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:04:43.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExceptionLogOptions.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\Logging\\ExceptionLogOptions.cs",
+              "RelativeDocumentMoniker": "Image.API\\Logging\\ExceptionLogOptions.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\Logging\\ExceptionLogOptions.cs",
+              "RelativeToolTip": "Image.API\\Logging\\ExceptionLogOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:07:52.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StatusCodes.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\DTOs\\StatusCodes.cs",
+              "RelativeDocumentMoniker": "Image.API\\DTOs\\StatusCodes.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\DTOs\\StatusCodes.cs",
+              "RelativeToolTip": "Image.API\\DTOs\\StatusCodes.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:28:32.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseCommandResponse.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\DTOs\\BaseCommandResponse.cs",
+              "RelativeDocumentMoniker": "Image.API\\DTOs\\BaseCommandResponse.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\DTOs\\BaseCommandResponse.cs",
+              "RelativeToolTip": "Image.API\\DTOs\\BaseCommandResponse.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:25:32.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImageSize.cs",
+              "DocumentMoniker": "D:\\Abjad\\Image\\Image.API\\DTOs\\Enums\\ImageSize.cs",
+              "RelativeDocumentMoniker": "Image.API\\DTOs\\Enums\\ImageSize.cs",
+              "ToolTip": "D:\\Abjad\\Image\\Image.API\\DTOs\\Enums\\ImageSize.cs",
+              "RelativeToolTip": "Image.API\\DTOs\\Enums\\ImageSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:22:58.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
